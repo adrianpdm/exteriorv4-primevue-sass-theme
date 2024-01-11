@@ -11,7 +11,7 @@ $colors: (
     "purple": #A855F7,
     "red": #FF3D32,
     "primary": $primaryColor
-);
+)!default;
 
 //reused color variables
 $shade000:#ffffff !default;    //surface

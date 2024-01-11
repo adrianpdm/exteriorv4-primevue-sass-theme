@@ -1,0 +1,20 @@
+@import '../variables-override';
+@import './theme.scss';
+
+:root {
+  font-family: $fontFamily;
+  --font-family: $fontFamily;
+  --text-color:#{$textColor};
+  --text-color-secondary:#{$textSecondaryColor};
+  --surface-0:#{$shade000};
+  --surface-50:#{$shade050};
+  --surface-100:#{$shade100};
+  --surface-200:#{$shade200};
+  --surface-300:#{$shade300};
+  --surface-400:#{$shade400};
+  --surface-500:#{$shade500};
+  --surface-600:#{$shade600};
+  --surface-700:#{$shade700};
+  --surface-800:#{$shade800};
+  --surface-900:#{$shade900};
+}
