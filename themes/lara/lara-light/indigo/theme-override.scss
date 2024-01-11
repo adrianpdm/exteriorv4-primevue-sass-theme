@@ -18,3 +18,7 @@
   --surface-800:#{$shade800};
   --surface-900:#{$shade900};
 }
+
+.p-button:not(:disabled):focus {
+  box-shadow: none;
+}

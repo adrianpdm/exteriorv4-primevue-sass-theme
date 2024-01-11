@@ -40,6 +40,12 @@ $textSecondaryColor:$shade500;
 
 $focusOutlineColor:$shade400;
 $focusShadow:0 0 2px 1px $focusOutlineColor;
+$secondaryButtonFocusShadow: none;
+$infoButtonFocusShadow: none;
+$successButtonFocusShadow: none;
+$warningButtonFocusShadow: none;
+$dangerButtonFocusShadow: none;
+$linkButtonFocusShadow: none;
 
 $tabviewNavBorder:1px solid $shade200;
 $tabviewHeaderBorder:solid $shade200;
